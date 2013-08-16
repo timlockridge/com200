@@ -47,7 +47,7 @@ Given this class’s focus on collaborative learning, it might seem somewhat awk
 
 ### Course Website
 
-The course website for this class can be found at [www.outsidethetext.com/arche](http://outsidethetext.com/arche). You should get in the haabit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here. If you forget the web address you can always find it from [www.outsidethetext.com](http://outsidethetext.com/) a much easier url to remember.
+The course website for this class can be found at [TBA](TBA). You should get in the haabit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here. If you forget the web address you can always find it from [TBA](TBA) a much easier url to remember.
 
 ### A Note on Technology
 
@@ -61,7 +61,7 @@ Many of the assignments throughout the semester will require participation in on
 
 ### How to Reach me
 
-The best way to reach me is by email [dparry@sju.edu](mailto:dparry@sju.edu) or you can find me online at [www.outsidethetext.com](http://outsidethetext.com/). I check email frequently throughout the day. If you email me and do not receive a response within 48 hours please feel free to email me again (I might not have received your first one) and give me a reminder. I promise not to consider this harassing. Don't call my office phone, though; voice mail is annoying and I tend to check it far less frequently than email.
+The best way to reach me is by email [tlockrid@sju.edu](mailto:tlockrid@sju.edu) or you can find me online at [www.timlockridge.com](http://timlockridge.com/). I check email frequently throughout the day. If you email me and do not receive a response within 48 hours please feel free to email me again (I might not have received your first one) and give me a reminder. I promise not to consider this harassing. Don't call my office phone, though; voice mail is annoying and I tend to check it far less frequently than email.
 
 My office hours are TR 2:00-3:00. My office is Merion Hall 173.
 
