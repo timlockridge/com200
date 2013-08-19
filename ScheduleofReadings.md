@@ -44,6 +44,7 @@
 ### September 26th, Thursday
 * ["How to Automatically Archive Your Life with IFTTT and Evernote"](http://lifehacker.com/5935658/how-to-automatically-archive-your-life-with-ifttt-and-evernote)
 * ["If you love Twitter apps, then you'll hate this story"](http://venturebeat.com/2012/09/20/ifttt-twitter/)
+* ["Twitter API updates: more authentication, fewer tweets, more rules, certification, and … talk to the hand"](http://venturebeat.com/2012/08/16/twitter-api-updates-more-authentication-fewer-tweets-more-rules-certification-and-talk-to-the-hand/)
 
 ## Week 6
 ### October 1st, Tuesday 
