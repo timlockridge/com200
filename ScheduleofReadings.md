@@ -92,7 +92,7 @@
 * *Net Smart* (215-238)
 
 ### November 7th, Thursday
-* [*Everything is a Remix*](http://everythingisaremix.info/watch-the-series/) (Watch Parts 1-4)
+* [*RiP: A Remix Manifesto*](http://vimeo.com/8040182)
 
 ## Week 12
 ### November 12th, Tuesday
