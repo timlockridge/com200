@@ -7,11 +7,14 @@
 
 ## Week 2 
 ### September 3rd, Tuesday
-* *Net Smart* (111-119) 
-* [ "My Ten Years of Blogging" ](http://gigaom.com/2011/11/26/10-years-gigaom/) Om Malik *Gigaom*
+* *Net Smart* (111-126)
+* ["RSS in Plain English"](http://www.youtube.com/watch?v=0klgLsSxGsU) Commoncraft
+* ["Introduction to RSS"](http://www.bleepingcomputer.com/tutorials/introduction-to-rss/) BleepingComputer.com
+* ["RIP:Google Reader Meets Its Inevitable End"](http://www.wired.com/gadgetlab/2013/03/r-i-p-google-reader/) Mat Honan *Wired*
 
 ### September 5th, Thursday
 * Introduction to Digital Writing Assignment and Setting Up Your Website
+* [ "My Ten Years of Blogging" ](http://gigaom.com/2011/11/26/10-years-gigaom/) Om Malik *Gigaom*
 
 ## Week 3 
 ### September 10th, Tuesday
@@ -20,7 +23,6 @@
 ### September 12th, Thursday
 * ["Twitter is as Bad (or Good) as YOU Make It."](http://www.twitip.com/twitter-is-as-bad-or-as-good-as-you-make-it/) Jamie Harrop *Twitip* 
 * ["Be Better at Twitter: The Definitive, Data Driven Guide"](http://www.theatlantic.com/technology/archive/2012/01/be-better-at-twitter-the-definitive-data-driven-guide/252273/) Megan Garber *The Atlantic*
-
 
 ## Week 4 
 ### September 17th, Tuesday
@@ -35,35 +37,31 @@
 
 ## Week 5
 ### September 24th, Tuesday
-* *Net Smart* (77-109)
+* *Net Smart* (126-134)
+* "Everything is Miscellaneous" David Weinberg
+* ["Introduction to Social Bookmarking"](http://www.commoncraft.com/video/social-bookmarking) Common Craft
 
 ### September 26th, Thursday
+* ["How to Automatically Archive Your Life with IFTTT and Evernote"](http://lifehacker.com/5935658/how-to-automatically-archive-your-life-with-ifttt-and-evernote)
+* ["If you love Twitter apps, then you'll hate this story"](http://venturebeat.com/2012/09/20/ifttt-twitter/)
+
+## Week 6
+### October 1st, Tuesday 
+* *Net Smart* (77-109)
+
+### October 3rd, Thursday
 * [ "The Top 15 Web Hoaxes of All Time" ](http://mashable.com/2009/07/15/internet-hoaxes/) Mashable
 * [ "Sorting the Real Sandy Photos From the Fakes" ](http://www.theatlantic.com/technology/archive/2012/10/sorting-the-real-sandy-photos-from-the-fakes/264243/ ) Alexis Magidral *The Atlantic*
 * ["In the Context of Web Context: How to check out any Web Page"](http://www.wordyard.com/2010/09/14/in-the-context-of-web-context-how-to-check-out-any-web-page/) Scott Rosenberg
 
-
-## Week 6
-### October 1st, Tuesday 
+## Week 7
+### October 8th, Tuesday
 * ["How to Solve Impossible Problems"](http://www.johntedesco.net/blog/2012/06/21/how-to-solve-impossible-problems-daniel-russells-awesome-google-search-techniques/) John Tedesco
 * Search Engine Literacy
 
-### October 3rd, Thursday
+### October 10th, Thursday
 * [ "Beware online 'filter bubbles'" ](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles.html) Eli Pariser TED Talk
 * [ "Why our Webs are Rarely World Wide, and What We Can Do About It" ](http://personaldemocracy.com/media/why-our-webs-are-rarely-world-wide-and-what-we-can-do-about-it) Ethan Zuckerman PDF Talk
-
-## Week 7
-### October 8th, Tuesday
-* *Net Smart* 119-126
-* "Everything is Miscellaneous" David Weinberg
-* ["Introduction to Social Bookmarking"](http://www.commoncraft.com/video/social-bookmarking) Common Craft
-
-### October 10th, Thursday
-* *Net Smart* 126-134
-* ["RSS in Plain English"](http://www.youtube.com/watch?v=0klgLsSxGsU) Commoncraft
-* ["Introduction to RSS"](http://www.bleepingcomputer.com/tutorials/introduction-to-rss/) BleepingComputer.com
-* ["RIP:Google Reader Meets Its Inevitable End"](http://www.wired.com/gadgetlab/2013/03/r-i-p-google-reader/) Mat Honan *Wired*
-
 
 ## Week 8
 ### October 15th, Tuesday (Fall Break)
