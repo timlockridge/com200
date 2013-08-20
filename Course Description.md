@@ -84,7 +84,7 @@ The semester grade breakdown (based on a percentage of total available points) f
  A | B |  C |  D |  F |
  ---------- | ---------- | ---------- | ---------- | ---------- |
   | B+: 89-87% | C+: 79-77% | D+: 69-67% |  |
- A: 100-94% | B: 86-84% | C: 76-74% | D: 66-64% | F: 59=0% |
+ A: 100-94% | B: 86-84% | C: 76-74% | D: 66-64% | F: 59-0% |
  A-: 93-90% | B-: 83-80% | C-: 73-70% | D-: 63-60% |  |
 
 ### University Policies
