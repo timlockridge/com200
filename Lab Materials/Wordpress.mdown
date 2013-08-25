@@ -1,0 +1,34 @@
+## COM200 Lab: Wordpress Learning Plan
+
+## Outcomes
+* Install and configure Wordpress for a COM200 blog
+* Proficiency in publishing content via Wordpress
+* Familiarity with styling & extending Wordpress
+
+---
+
+### Configuration: 
+* Purchase your domain & hosting at [Reclaim Hosting](www.reclaiminghosting.com)
+* Install Wordpress via cpanel (don't get too hung up on cpanel, just install wordpress)
+* Browse the wordpress [codex](http://codex.wordpress.org/). Try to learn something new. Don't worry about things that don't (yet) make sense.
+* Explore the Settings menu. Enable Day and name permalinks. Set Blog name, and title. 
+
+### Content:
+* Create pages, create posts, understand the difference
+* Explore the visual editor
+* Upload media. Insert an image into a post. Resize it.
+* Tag the post you wrote
+
+### Appearance/Extensions:
+* Appearances: Install at least five themes. Find one you like. Install & manipulate it.
+* Widgets: Add information to the sidebar, header, or footer with a widget.
+* Menus: Create a menu for your theme.
+* Plugins:
+ * Activate the Akismet plugin. Block spam.
+ * Add a new plugin. For example, add a Captcha plugin so that a user has to enter a captcha code before posting a comment.
+
+### Resources
+* [Wordpress.com vs Wordpress.org](http://www.youtube.com/watch?v=0Nh11GI4-Gc)
+* [Bluehost's How to use Wordpress](http://www.youtube.com/playlist?list=PLCAC66DEEFFEDD36E)
+* [5 Essential Wordpress Tips for Beginners](http://mashable.com/2012/12/05/wordpress-for-beginners/)
+* [Cpanel User's Guide]( http://docs.cpanel.net/twiki/bin/view/AllDocumentation/CpanelDocs/WebHome)
