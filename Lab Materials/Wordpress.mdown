@@ -1,5 +1,7 @@
 ## COM200 Lab: Wordpress Learning Plan
 
+*You can access a digital version of this plan at <a href="http://is.gd/200lab" name="">http://is.gd/200lab</a>*
+
 ## Outcomes
 * Install and configure Wordpress for a COM200 blog
 * Proficiency in publishing content via Wordpress
@@ -8,7 +10,7 @@
 ---
 
 ### Configuration: 
-* Purchase your domain & hosting at [Reclaim Hosting](www.reclaiminghosting.com)
+* Purchase your domain & hosting at [Reclaim Hosting](http://www.reclaiminghosting.com)
 * Install Wordpress via cpanel (don't get too hung up on cpanel, just install wordpress)
 * Browse the wordpress [codex](http://codex.wordpress.org/). Try to learn something new. Don't worry about things that don't (yet) make sense.
 * Explore the Settings menu. Enable Day and name permalinks. Set Blog name, and title. 
