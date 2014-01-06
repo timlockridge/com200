@@ -1,16 +1,16 @@
-#COM 200 Communications Theory and Practice
+#COM 200: Communications Theory and Practice
 
 ## Course Description
 
-It is an overused cliche that we live in a digital world. But this cliche also points to a certain truth: communication is now primarily digital. Indeed it would be possible to argue that all research, writing, and communication is digital, or at least structured by the digital landscape. The ability to write in digital spaces, research online, and participate in these evolving social communities has become a critical 21st century knowledge. In this class we will not only study these evolving digital literacies, but actively practice them. This course serves as one of the foundational courses for Communication majors and minors.
+It is an overused cliche that we live in a digital world. But this cliche also points to a certain truth: Communication is now primarily digital. Indeed it would be possible to argue that all research, writing, and communication is digital, or at least structured by the digital landscape. The ability to write in digital spaces, research online, and participate in these evolving social communities has become a critical 21st century knowledge. In this class we will not only study these evolving digital literacies, but actively practice them. This course serves as one of the foundational courses for Communication majors and minors.
 
 ## Required Texts
 
 There is one required text for this class:
 
-* *Net Smart: How to Thrive Online.* Howard Rheingold. ISBN 0262017458
+* *[Net Smart: How to Thrive Online](https://mitpress.mit.edu/books/net-smart).* Howard Rheingold. ISBN 0262017458
 
-In addition you will also need your own domain and hosting. (Many of the things we will do in class require you have your own domain and hosting.) We will cover the details of this in class.
+In addition you will also need your own domain and hosting. (Many of our projects will require you to have your own domain and hosting.) We will cover the details of this in class.
 
 
 ## Course Overview & Learning Objectives
@@ -27,17 +27,19 @@ Specifically, upon completion of this course, students will:
 
 ## Class Requirements
 
-The final grade will be determined by performance on the following projects. The specific details of each project will be included on the project’s assignment sheet and discussed in class. *You must complete each assignment to earn a passing grade!* 
+The final grade will be determined by your performance on the following projects. The specific details of each project will be included on the project’s assignment sheet and discussed in class. *You must complete each assignment to earn a passing grade!* 
 
-**Digital Writing Project** (50%): You will study, in great depth, a specific topic, building a blog and using several digital tools to filter and curate information related to your topic. This project asks you to learn how to write online, how to manage many streams of information, and how to connect with and engage readers. Although the whole of this assignment adds up to half of the semester's points, it is built from many smaller assignments and weekly check-ins. (See the [assignment sheet](#) for more details.) These assignments will vary both in terms of length and content, but expect to work on this every week. (Expect to spend 3-4 hours a week on this.)
+**Digital Writing Project** (50%): You will study, in great depth, a specific topic, building a blog and using several digital tools to filter and curate information related to your topic. This project asks you to learn how to write online, how to manage many streams of information, and how to connect with and engage readers. Although the whole of this assignment adds up to  half of the semester's points, it is built from many smaller assignments and weekly check-ins. (See the [assignment sheet](#) for more details.) These assignments will vary both in terms of length and content, but expect to work on this every week.
 
-**Presentations** (15%): During the final weeks of the course, students will work in pairs to evaluate one of the digital platforms and tools we did not cover in class and present their findings to the class. (Expect to spend 10-12 hours during the final weeks of the course on this final project.)
+**Midterm Exam** (10%): The midterm will cover the theories &amp; concepts discussed in *NetSmart*.
 
-**Reflection Essays** (15%) You will be asked to write several short pieces throughout the semester reflecting on your engagement with the digital tools and spaces we experiment with in class. (Expect to spend 6-8 hours over the course of the semester on these.) 
+**Final Exam** (10%): The final exam will build from the midterm, asking you to demonstrate your knowledge of the course's major concepts.
 
-**Digital Media** (10%): Throughout the course we will be experimenting with multiple digital platforms. (Expect to spend approximately 1 hour a week on this.)
+**Presentations** (10%): During the final weeks of the course, you will (either in groups or individually) give a brief presentation that maps the major nodes of your Personal Learning Network.
 
-**Informal Projects, Class Prep, & Assessment** (10%): While I don't include *participation* as an assessment category, your performance in preparing for class and in completing informal classroom projects will be evaluated. For example, you will--through Evernote (or a similar service)--share with me your reading notes and class prep materials. I will periodically check these, and the thoroughness of your preparation will contribute to this grade category. During the first week of class we will discuss the specifics of this evaluation method. Additionally, if there's widespread evidence of hasty reading/prep, I will administer pop quizzes. Should those occur they will contribute to this assessment category. (Expect to spend 3 hours a week in class and roughly 3-4 hours a week reading for class.)
+**Class Prep** (10%): While I don't include *participation* as an assessment category, your performance in preparing for class will be evaluated. You will--through Blackboard--share with me your reading notes and class prep materials. I will evaluate these based on the thoroughness of your preparation. (During the first week of class we will discuss the specifics of this evaluation method.) Additionally, if there's widespread evidence of hasty reading/prep, I will administer pop quizzes. Should those occur they will contribute to this assessment category.
+
+**Com Lab Sessions** (10%): You will attend regular meetings of a COM200L session. This lab time will allow you to learn more about digital technologies, gain new literacies, and develop a personal learning plan. This grade category will be based solely on your attendance in those sessions (attending 90% of the lab sessions would yield 9 out of 10% in this category).
 
 ## Policies
 
@@ -45,18 +47,18 @@ The final grade will be determined by performance on the following projects. The
 
 As this course is highly interactive and practice/discussion-driven, your success is absolutely tethered to your presence and participation. The course will move quickly, and each successive meeting will build upon the concepts of the previous. Missing a class puts you at a serious disadvantage in terms of the larger semester arc.
 
-Please come to class on time, prepared, having completed the assigned reading and writing, and ready to contribute to class discussions, to listen seriously and respectfully to the thoughts of others, and to participate in all in-class activities. Lateness is also unacceptable; if you arrive late to class or leave early, you can be marked as absent. Only three absences are permitted, and these should be used for illness or emergencies (i.e. this does not mean three absences plus absences for illness etc.). Each absence after your third will result in a .25 deduction from your final grade--making, for example, a 3.25 a 3.0. After the sixth absence, you will fail the class (a grade of FA). Your primary responsibility is to be in class and fully present.
+Please come to class on time, prepared, having completed the assigned reading and writing, and ready to contribute to class discussions, to listen seriously and respectfully to the thoughts of others, and to participate in all in-class activities. Lateness is also unacceptable; if you arrive late to class or leave early, you can be marked as absent. Five absences are permitted. Upon missing class six times (the equivalent of three weeks of class), you will fail the class (with a grade of FA). Your primary responsibility is to be in class and fully present.
 
 Beyond mere presence, however, a successful course requires student participation. Students are expected to come to class on time, prepared, having completed the assigned reading and writing, and ready to contribute to class discussions, to listen seriously and respectfully to the thoughts of others, and to participate in all in-class activities. I strongly urge you to attend every class, as most of the work done in class is necessary for successful completion of the course. 
 
 
 ### Course Website
 
-The course website for this class can be found at [TBA](#). You should get in the habit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here.
+The course website for this class can be found at [TBA](#). Please check this regularly; I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here.
 
 ### A Note on Technology
 
-Because at its core this class is about how technology changes our culture, we will necessarily engage with a range of computer tools and web based applications. You do not need any prior skill; you merely need a willingness to engage and learn. A majority of the tools we will be using in class are web-based, and you will not need any special software. While we have lab computers on which you can work, you will probably find it easier to use your own computer--as many of the services we will use have plugins or extensions that connect to the browser. Bringing in your own computer and configuring it during class and lab sessions might save you time later.
+This class is about how technology changes our culture, and we will necessarily engage with a range of computer tools and web-based applications. You do not need any prior skill; you merely need a willingness to engage and learn. A majority of the tools we will be using in class are web-based, and you will not need any special software. While we have lab computers on which you can work, you will probably find it easier to use your own computer&mdash;as many of the services we will use have plugins or extensions that connect to the browser. Bringing in your own computer and configuring it during class and lab sessions might save you time later.
 
 Should you need to use additional materials: In the IT office in the basement of Merion Hall (directly below our classroom), COM students have access to a variety of audio/visual equipment. Check out time is 48 hours.
 
@@ -66,7 +68,7 @@ Many of the assignments throughout the semester will require participation in on
 
 ### How to Reach me
 
-Please feel free to drop by my office to ask questions, offer concerns, or just say hi. Before dropping by, I encourage you to schedule an appointment at [timlockridge.com/cal](http://www.timlockridge.com/cal). This is especially true if you need extended help: Schedule an appointment or send me an email and let me know when you plan to stop by. For short queries, you can message me (either via direct message or a mention) on Twitter: [@timlockridge](http://www.twitter.com/timlockridge) or via Google Chat (timlockridge@gmail.com).
+Please feel free to drop by my office to ask questions, offer concerns, or just say hi. Before dropping by, I encourage you to schedule an appointment at [timlockridge.com/cal](http://www.timlockridge.com/cal). This is especially true if you need extended help: Schedule an appointment or send me an email and let me know when you plan to stop by. For short queries, you can email me, message me on Twitter [@timlockridge](http://www.twitter.com/timlockridge), or IM me via Google Chat (timlockridge@gmail.com).
 
 When emailing me, keep in mind that--depending on the day and email volume--it might take me 48 hours to respond. If I haven’t responded to you in 48 hours, please email me again. I won’t be offended or bothered: Things can get lost in digital transit, and I want to make sure your questions are answered in a timely fashion.
 
@@ -99,7 +101,7 @@ In short: If you use media, information, or ideas that are not yours and not com
 
 **Disability Support**: In accordance with state and federal laws, the University will make reasonable accommodations for students with documented disabilities. For those who have or think that you may have a disability requiring an accommodation (learning, physical, psychological) should contact Services for Students with Disabilities, Room G10, Bellarmine, 610-660-1774 (voice) or 610-660-1620 (TTY) as early as possible in the semester for additional information and so that an accommodation, if appropriate, can be made in a timely manner. You will be required to provide current (within 3 years) documentation of the disability.
 
-For a more detailed explanation of the University’s accommodation process, as well as the programs and services offered to students with disabilities, please see the [Student Resources Page](www.sju.edu/studentlife/studentresources/sess/ssd). If you have any difficulty accessing the information on-line, please contact Services for Students with Disabilities at the telephone numbers above.
+For a more detailed explanation of the University’s accommodation process, as well as the programs and services offered to students with disabilities, please see the [Student Resources Page](http://www.sju.edu/studentlife/studentresources/sess/ssd). If you have any difficulty accessing the information on-line, please contact Services for Students with Disabilities at the telephone numbers above.
 
 ### A Final Note
 
